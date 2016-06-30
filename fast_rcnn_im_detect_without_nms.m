@@ -3,6 +3,7 @@
 % Copyright (c) 2015 Microsoft
 % Licensed under The MIT License [see LICENSE for details]
 % Written by Ross Girshick
+% https://github.com/rbgirshick/fast-rcnn
 % Edited by Noa Arbel Dec 2015 Technion - removed NMS
 % --------------------------------------------------------
 
